@@ -1,0 +1,7 @@
+{"question": "What is the consent number for Palar Fruit Processing in MPCB Consent to Operate 01?", "expected_contains": ["MPCB-CONSENT-6647115493"]}
+{"question": "What is the BOD limit for trade effluent in 06_MPCB_Consent_to_Operate_01?", "expected_contains": ["100 mg/l"]}
+{"question": "When does MPCB consent 6647115493 expire?", "expected_contains": ["31.05.2030"]}
+{"question": "What is the permitted groundwater abstraction for Hemavathi Beverages?", "expected_contains": ["220 m3/day"]}
+{"question": "What is the CGWA NOC number for the beverage plant groundwater NOC?", "expected_contains": ["CGWA/NOC/IND/REN/2023/48215"]}
+{"question": "What bagasse boiler capacity is listed for Palar Sugars cogeneration proceedings?", "expected_contains": ["60 TPH"]}
+{"question": "What is the valid period for Palar Sugars consent to operate renewal?", "expected_contains": ["01.04.2023", "31.03.2026"]}
